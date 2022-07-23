@@ -1,9 +1,8 @@
-#Packages that you need: pandas, numpy, mlxtend
 import pandas as pd
 import numpy as np
 from mlxtend.frequent_patterns import apriori,association_rules
 from sklearn.preprocessing import LabelEncoder
-df = pd.read_csv('E:/Data Science/Section 15/service5.csv')
+df = pd.read_csv('E:/service5.csv')
 df.describe(include="all").iloc[:,:3]
 df = df.iloc[:,:7]
 np.sum(df.isna())
