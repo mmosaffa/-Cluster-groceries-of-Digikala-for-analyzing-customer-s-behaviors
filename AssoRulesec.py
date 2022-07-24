@@ -148,13 +148,3 @@ for x in Complaint2:
 Complainthrules2[0].iloc[:,:2]
 Complainthrules2[0].iloc[:,2:5]
 Complainthrules2[0].iloc[:,5:]
-
-
-
-
-
-
-
-
-
-
