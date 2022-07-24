@@ -1,2 +1,2 @@
-# Cluster-groceries-of-Digikala-for-analyzing-customer-s-behaviors
-Utilizing unsupervised learning (Association Rules) to cluster groceries of Digikala (the most famous online shopping like Amazon, in Iran) by analyzing customer’s behaviors, with Python.
+# Unsupervied-learning-in-the-service-requests-of-New-york-city
+Utilizing unsupervised learning (Association Rules) for serivce request of NYC in USA for exctracting correlated requested tasks in order to proposed helpful rules for having more efficient service request in USA.
